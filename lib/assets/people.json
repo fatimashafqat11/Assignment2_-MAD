@@ -1,0 +1,40 @@
+{
+    "people": [
+        {
+            "id": "1",
+            "name": "Amna"
+        }, 
+        {
+            "id": "2",
+            "name": "Fatima"
+        },
+        {
+            "id": "3",
+            "name": "Ayesha"
+        },
+        {
+            "id": "4",
+            "name": "Maryam"
+        },
+        {
+            "id": "5",
+            "name": "Sana"
+        },
+        {
+            "id": "6",
+            "name": "Ayla"
+        },
+        {
+            "id": "7",
+            "name": "Ramza"
+        },
+        {
+            "id": "8",
+            "name": "Sadia"
+        },
+        {
+            "id": "9",
+            "name": "Reeha"
+        }
+    ]
+}
